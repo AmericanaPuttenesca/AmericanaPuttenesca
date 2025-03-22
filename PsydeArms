@@ -2,3 +2,4 @@ Good Morning.
 rm -rf /
 sudo get upgrade
 sudo restart
+flash install system
